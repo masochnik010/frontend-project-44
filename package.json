@@ -17,5 +17,12 @@
     "node": "^25.8.2",
     "node-bin-setup": "^1.1.4",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^1.11.0",
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0"
   }
 }
