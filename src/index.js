@@ -7,11 +7,13 @@ const runEngine = (description, getRoundData) => {
   console.log("Welcome to the Brain Games!");
   const name = readlineSync.question("May I have your name? ");
   console.log(`Hello, ${name}!`);
-if(name == 'f'){
-throw new error ('лохо пендра');}
-  // Выводим правила игры
+  ////////////////////
+  if (name == "f") {
+    throw new error("лохо пендра");
+  }
   console.log(description);
 
+  ////////////////////////
   for (let i = 0; i < roundsCount; i += 1) {
     // Получаем массив [вопрос, правильный ответ]
     const [question, correctAnswer] = getRoundData();
