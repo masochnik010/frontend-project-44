@@ -16,7 +16,6 @@
 
 - Node.js v18.x или выше
 - npm v9.x или выше
-  <video src="https://asciinema.org/a/x6J2Prdr9YGTdBhC" controls="controls" width="100%"></video>
 
 ### Установка:
 
