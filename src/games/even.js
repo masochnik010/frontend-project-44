@@ -10,4 +10,4 @@ const getRoundData = () => {
   return [String(randomnumer), provgames1]
 }
 
-export default () => runEngine(description, getRoundData);
+export default () => runEngine(description, getRoundData)

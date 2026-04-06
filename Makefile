@@ -10,6 +10,11 @@ brain-gcd:
 	node bin/brain-gcd.js
 brain-progression:
 	node bin/brain-progression.js
+brain-prime:
+	node bin/brain-prime.js
+
+
+
 publish:
 	npm publish --dry-run
 lint:
@@ -18,5 +23,5 @@ lint--fix:
 	npx eslint . --fix
 git:
 	git add .
-	git commit -m 'zad'
+	git commit -m 'zad1'
 	git push
