@@ -23,5 +23,5 @@ lint--fix:
 	npx eslint . --fix
 git:
 	git add .
-	git commit -m 'zad1'
+	git commit -m 'zad2'
 	git push
