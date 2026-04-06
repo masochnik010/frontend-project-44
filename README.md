@@ -11,4 +11,4 @@
 
 ### все задание в 1 сылке-видео
 
-(https://asciinema.org/a/x6J2Prdr9YGTdBhC)
+https://asciinema.org/a/x6J2Prdr9YGTdBhC
