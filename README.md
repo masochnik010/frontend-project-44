@@ -17,6 +17,10 @@
 - Node.js v18.x или выше
 - npm v9.x или выше
 
+### игра
+
+[![asciinema](https://asciinema.org/connect/e538f7a6-93ec-4dbc-97a7-da4d2d95ee6c.svg)](https://asciinema.org/a/x6J2Prdr9YGTdBhC)
+
 ### Установка:
 
 ```bash
