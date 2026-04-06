@@ -19,7 +19,7 @@
 
 ### игра
 
-[![asciinema](https://asciinema.org/a/x6J2Prdr9YGTdBhC.svg)](https://asciinema.org/a/x6J2Prdr9YGTdBhC)
+[![asciinema](https://asciinema.org/a/3Ox5C6zia0ZZsyBM.svg)](https://asciinema.org/a/3Ox5C6zia0ZZsyBM)
 
 ### Установка:
 
